@@ -1,0 +1,19 @@
+{
+  "name": "wikisearch",
+  "version": "1.0.0",
+  "description": "- Wikipedia Searching app using angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrvarun/wikiSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrvarun/wikiSearch/issues"
+  },
+  "homepage": "https://github.com/nrvarun/wikiSearch#readme"
+}

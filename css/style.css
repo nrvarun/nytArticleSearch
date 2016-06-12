@@ -1,0 +1,38 @@
+body {
+	font-size: 16px;
+	color: black;
+}
+.fa-wiki {
+	color: black!important;
+	font-size: 0.9em;
+}
+.wiki-main {
+	background-color: #fafafa;
+}
+.wiki-search-div__form{
+	display: flex;
+	justify-content: center;
+	background-color: #eeedeb;
+}
+.wiki-search-div__results{
+	display: flex;
+	justify-content: center;
+	padding-top: 5px;	
+}
+.wiki-search-div__results__cards {
+	width: 500px;
+}
+.search-btn {
+	background-color: #FFFFFF;
+	color: black;
+	border-radius: 5px;
+	transition: all 0.3s ease-out;
+	width: auto;
+}
+.search-btn:hover, .search-btn:focus, .search-btn:active {
+	background-color:lightgrey;
+	color: #ffffff;
+}
+.wiki-textfield {
+	width: auto!important;
+}
