@@ -1,3 +1,3 @@
 # wikiSearch
 
-# Wikipedia Searching app using angularjs
+ - Wikipedia Searching app using angularjs
