@@ -4,6 +4,10 @@ body {
 }
 a {
 	color: black;
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
 }
 .fa-wiki {
 	color: black!important;
