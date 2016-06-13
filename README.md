@@ -1,3 +1,3 @@
-# wikiSearch
+# New york times Article search
 
- - Wikipedia Searching app using angularjs
+ - Newyork times Articles Searching as per your location/city using angularjs and material design lite
